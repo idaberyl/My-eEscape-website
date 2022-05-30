@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(/conor-luddy-IVaKksEZmZA-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+}
+#head{
+    background:linear-gradient(90deg,#d8b5ff,#1eae98);
+    padding-top: 20px;
+}
+.head1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24pt;
+    text-align: left;
+    position: absolute;
+    bottom: 50px 15px;
+    padding-bottom: 15px;
+
+    
+}
+.links{
+ text-align: right;
+ padding: 10px;
+ font-family: arial, verdana, sans-serif;
+ justify-content: space-evenly;
+ word-spacing: 2em;
+ 
+}
+.links a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.links a:hover{
+    text-decoration: underline;
+    color: brown;
+}
+h1{
+    color: white;
+    font-size: 32pt;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 3em 10em;
+    line-height: 39pt;
+    vertical-align: text-bottom;
+    padding: 10px;
+    position: relative;
+    top: 40pt;
+    left: 30pt;
+}
+.btn1{
+    background:none;
+    padding: 1em;
+    font-family: arial, verdana, sans-serif;
+    font-size: 12pt ;
+    border-radius: 5px;
+    border-color: white;
+    color: white;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    position: relative;
+    bottom: 100pt;
+    left: 370pt;
+    cursor: pointer;
+
+}
+.btn2{
+    background: white;
+    padding: 1em;
+    font-family: arial, verdana, sans-serif;
+    font-size: 12pt ;
+    border-radius: 5px;
+    border-color: white;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    position: relative;
+    bottom: 100pt;
+    left: 340pt;
+    cursor: pointer;
+}
+button{
+    margin: 40px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
